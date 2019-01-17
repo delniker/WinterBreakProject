@@ -1,0 +1,38 @@
+body {
+	font-size: 0.8em;
+	font-family: arial, sans-serif;
+}
+
+h1 {
+	border:5px solid green;
+	text-align: center;
+	float: center;
+
+}
+
+.class1 {
+	background-color: white;
+	font-size: 30px;
+	text-align: center;
+	font: Times New Roman;
+}
+
+.class2 {
+	font-size: 20px;
+	font: Times New Roman;
+}
+
+.imgclass1 {
+	width:50%;
+	height:50%;
+}
+
+.imgclass2 {
+	width:25%;
+	height:25%;
+}
+
+.class3 {
+	width: 50%;
+	padding-left: 25%;
+}
